@@ -15,11 +15,11 @@ I decided to work with data from the wWhitman's institute research department, w
 #  First Visualization
 This is a representation of variation in number of programs enrolled students are interested in. 
 
-<iframe>
+<iframe
    src="https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/first_visuali.html" 
   width="100%" 
   height="500px" 
   frameborder="0" 
-  scrolling="no"
+  scrolling="no">
 </iframe>
   
