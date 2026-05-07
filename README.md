@@ -16,7 +16,7 @@ I decided to work with data from the wWhitman's institute research department, w
 This is a representation of variation in number of programs enrolled students are interested in. 
 
 <iframe 
-  src="https://github.com/Wangari-Kariuki/Data-Science-Portfolio/blob/main/my_visualization%20(1).png" 
+  src="https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/my_visualization%20(1).png" 
   width="100%" 
   height="500px" 
   frameborder="0" 
