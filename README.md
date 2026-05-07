@@ -14,4 +14,4 @@ I decided to work with data from the wWhitman's institute research department, w
 
 #  First Visualization
 This is a representation of variation in number of programs enrolled students are interested in. 
-![Histogram](my_visualization%20(1).png)
+<img src="my_visualization.png" width="600">
