@@ -15,3 +15,22 @@ I decided to work with data from the wWhitman's institute research department, w
 #  First Visualization
 This is a representation of variation in number of programs enrolled students are interested in. 
 <img src="my_visualization.png" width="600">
+# Week 14 update
+After analyzing the structure of my data, cleaning and merging the data frames to contain student program interest information, I now need to compare the Program codes of declared majors with the initial academic interest. Note that the declared majors are listed as program codes and not subjects, so I needed to create a separate column that contains the list of interests as program codes. 
+
+To do this, I created a custom function that iterates and compares each listed subject with the subject's program codes and returns the program code of the listed subject.
+Pending tasks:
+1. Analyze change in program codes from inital interest to, delcaration and graduation
+
+3. Create visualization to represent this trend and variation in different groups of students
+   
+4. Categorize the filtered data according to Program types and represent this information in a visaulization
+
+Narrative plan: 
+My plan is to have the following order of items in my data story:
+1. Background and reason for this project
+2. Data sourcing and procedure
+3. Results and conclusion (Visual representations of my findings) 
+4. Future improvement
+5. Viewers/Readers  Comments
+
