@@ -14,7 +14,13 @@ I decided to work with data from the wWhitman's institute research department, w
 
 #  First Visualization
 This is a representation of variation in number of programs enrolled students are interested in. 
-<img src="my_visualization.png" width="600">
+<iframe
+   src = "https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/first_visuali.html"
+   width="100%" 
+  height="500px" 
+  frameborder="0" 
+  scrolling="no">
+   ></iframe>
 # Week 14 update
 After analyzing the structure of my data, cleaning and merging the data frames to contain student program interest information, I now need to compare the Program codes of declared majors with the initial academic interest. Note that the declared majors are listed as program codes and not subjects, so I needed to create a separate column that contains the list of interests as program codes. 
 
@@ -38,5 +44,5 @@ My plan is to have the following order of items in my data story:
   width="100%" 
   height="600px" 
   frameborder="0" 
-  scrolling="no">
+  scrolling="yes">
 </iframe>
