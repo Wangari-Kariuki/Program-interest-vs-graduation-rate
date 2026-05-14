@@ -33,4 +33,10 @@ My plan is to have the following order of items in my data story:
 3. Results and conclusion (Visual representations of my findings) 
 4. Future improvement
 5. Viewers/Readers  Comments
-
+<iframe 
+  src="https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/second_visuali.html" 
+  width="100%" 
+  height="600px" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
