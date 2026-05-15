@@ -14,8 +14,15 @@ How has the rate of switching majors changed over time?
 In what period or year do students switch majors?
 
 ## Analysis Knowledge
+The data processing and cleaning required three major steps to filter out student information about what majors they declared interest in during their first years, second, third, and final years.
+First, I examined the major interests during their first years using pandas grouping and filtering methods. 
+{insert code snippet}
 
 
+Next, I merged the students' initial interest information with their concurrent changes in major declaration. The main challenge was normalizing the varied text entries for first interests, which were raw strings (e.g., "Biology," "Biomolecular Biology," "Computer Science"), while the declared programs used program codes (e.g., "BIOL," "CS"), making comparison tedious. To address this, I used a Python library called MyFuzz, which analyzes text strings and returns a similarity ratio. Using this tool, I was able to match raw text strings to the corresponding program code format.
+{inset code snippet}
+
+For the visualizations, I used Plotly Express to generate dynamic and interactive visual representations of the program details. 
 
 ## Results
 
