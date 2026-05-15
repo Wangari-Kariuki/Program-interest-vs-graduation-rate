@@ -1,19 +1,26 @@
-# Program interest vs graduation rate analysis progress
+#    Exploratory analysis of change of program interest and graduation rate
 
-# * Project update 1*
-I have decided to explore my first option. So far I have obtained more than four thousand entries of enrolled students from the Institutional Research department and I will be wrangling the daa in the coming weeks. This is a personal project but I might reach out to my classmates and professor for help if necessary. Research questions:
+## Motivation and objective
+According to a study by the Department of Education, approximately 30% of undergraduate students change their major at least once within their first three years of study. The rate of change varied by field, with students who declared STEM majors switching at a rate of 35%.More information about this can be found in <a href= "https://nces.ed.gov/pubs2018/2018434/index.asp">this article</a>
+The goal of this project is to examin the rate at which students enrolled in Whitman College change majors and whether there is a reasonable correlation between that and their graduation statuses.I will explore the variation in the rate of changing majors according to the different fields of studies.  
 
+## About the data
+The data was requested from  by Whitman college department of institution research through Professor Jordan.The dataset contained information of 2000 enrolled students between 2017 and 2021 academic years, their declared academic interests, and their graduation status.
+
+##  Research questions
 Does switching majors affect a student's likelihood of graduating?
 Which program categories do students mostly switch to or from?
 How has the rate of switching majors changed over time?
 In what period or year do students switch majors?
-# * Project Update 2*
-Obtaining and exploring available datasets
 
-I decided to work with data from the wWhitman's institute research department, which I obtained by requesting it from the director of institute research through my professor. The dataset contains information about enrolled students, their declared academic interests, and their graduation status. This allows us to explore questions regarding the trends in the types of programs students switch to or from, the number of students who change majors, and the number of students who graduated or withdrew from college. I noticed there are inconsistencies with the data, such as missing values, mismatched dates, error codes, and duplicated values.
+## Analysis Knowledge
 
-#  First Visualization
-This is a representation of variation in number of programs enrolled students are interested in. 
+
+
+## Results
+
+### First Visualization
+This is a representation of variation in the number of programs enrolled students are interested in. 
 <iframe
    src = "https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/first_visuali.html"
    width="100%" 
