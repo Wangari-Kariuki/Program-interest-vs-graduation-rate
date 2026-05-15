@@ -39,13 +39,7 @@ Pending tasks:
    
 4. Categorize the filtered data according to Program types and represent this information in a visaulization
 
-Narrative plan: 
-My plan is to have the following order of items in my data story:
-1. Background and reason for this project
-2. Data sourcing and procedure
-3. Results and conclusion (Visual representations of my findings) 
-4. Future improvement
-5. Viewers/Readers  Comments
+
 <iframe 
   src="https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/second_visuali.html"
   width="100%" 
@@ -53,3 +47,17 @@ My plan is to have the following order of items in my data story:
   frameborder="0" 
   scrolling="yes">
 </iframe>
+
+
+
+
+Narrative plan: 
+My plan is to have the following order of items in my data story:
+1. Background and reason for this project
+2. Data sourcing and procedure
+3. Results and conclusion (Visual representations of my findings) 
+4. Future improvement
+5. Viewers/Readers  Comments
+
+
+
