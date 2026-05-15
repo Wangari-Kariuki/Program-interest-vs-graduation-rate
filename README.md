@@ -43,7 +43,7 @@ Pending tasks:
 <iframe 
   src="https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/second_visuali.html"
   width="100%" 
-  height="100%" 
+  height="500px" 
   frameborder="0" 
   scrolling="yes">
 </iframe>
