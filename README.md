@@ -102,7 +102,7 @@ With this we can infer that that the rest 15% changed their majors and majoriiry
 Throughout this project, I have appreciated the effort it takes to clean and subset data during descriptive analysis. I have also learned how important it is to have target questions especially for this kind of analysis, because it becomes tempting to go on tangents when coming up with new insights. And also that the new insights can be useful in fulfilling the objectives. 
 
 **Future stretch**
-I wish to explore this data further by using clustering analysis to evaluate trends in  the programs by clustering them into humanities, sciences , arts and applied fields. 
+I wish to explore this data further by using clustering analysis to evaluate trends in  the programs by categorizing them into humanities, sciences , arts and applied fields. 
 
 **Research resources**
 - Pandas documentation: I used pandas documentation for most of data filtering algorithms
