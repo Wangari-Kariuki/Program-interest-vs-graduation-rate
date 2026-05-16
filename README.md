@@ -1,4 +1,4 @@
-#    Exploratory analysis of change of program interest and graduation rate
+#   Descriptive analysis of change of program interest and graduation rate
 
 ## Motivation and objective
 According to a study by the Department of Education, approximately 30% of undergraduate students change their major at least once within their first three years of study. The rate of change varied by field, with students who declared STEM majors switching at a rate of 35%.More information about this can be found in <a href= "https://nces.ed.gov/pubs2018/2018434/index.asp">this article</a>
