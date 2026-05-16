@@ -31,6 +31,7 @@ For the visualizations, I used Plotly Express to generate dynamic and interactiv
 This <a href= "https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/final_project_report.ipynb">Google colab report </a> includes all the code and step by step procedure of my analysis
 ## Results
 **Evaluating initial major interests**
+
 Although this was a tangent from examining the major changes, it later became useful in evaluating the variation in the level of interest for different majors at enrollment.
 <figure>
    <iframe
@@ -41,16 +42,32 @@ Although this was a tangent from examining the major changes, it later became us
   scrolling="no">
    ></iframe>
    <figcaption>
-      This is a representation of variation in the number of programs enrolled students are interested in. 
+      
+This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
+
    </figcaption>
 </figure>
- 
 
-**So how many students within 2017 and 2021 switched majors?**
+
+<figure>
+<iframe 
+  src="https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/second_visuali.html"
+  width="100%" 
+  height="500px" 
+  frameborder="0" 
+  scrolling="yes">
+</iframe>
+<figcaption> 
+   The visualization is a stacked bar graph representing the change in student count before and after students changed majors. It accounts for information only from students who switched majors.
+Hover over each bar to see the varying student count. 
+</figcaption>
+</figure>
+
+**How many students within 2017 and 2021 switched majors?**
 
 After filtering out the students with major changes, I discovered that 247 (15%) out of the recorded 1628 enrolled students had switched majors at least once during their three years in college.That is approximately 1 in evey 6 undergraduate students
 
-**Which mjors did they switch to and from?**
+**Which majors did they switch to and from?**
 
 The visualiation bellow shows the trend in student counts across various programs. Notably, Economics, Computer Science, and Psychology experienced the largest percentage decline(between 40% and 42%) in the number of students who switched majors. Meaning, students mostly switched from those majors to other programs, while I never managed to track the exact programs that each student switched from and to, because of the limitation of the data set provided. This analysis supplies enough information by tracking changes in student count per program. 
 
@@ -74,22 +91,6 @@ This is a categorical bar graph representing the student count per major obtaine
 
 Out of 1562 graduating students, 367 chose one of their first-year academic interests as their major.
 This is 23.50% of all graduated students.
-
-
-
-This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
-
-<iframe 
-  src="https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/second_visuali.html"
-  width="100%" 
-  height="500px" 
-  frameborder="0" 
-  scrolling="yes">
-</iframe>
-<figcaption> 
-   The visualization is a stacked bar graph representing the change in student count before and after students changed majors. It accounts for information only from students who switched majors.
-Hover over each bar to see the varying student count. 
-</figcaption>
 
 
 **Reflection**
