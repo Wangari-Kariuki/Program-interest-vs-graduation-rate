@@ -1,5 +1,10 @@
 #   Descriptive analysis of change of program interest and graduation rate
 
+**By: Esther Kariuki**
+
+**May 16th, 2026**
+
+
 ## Motivation and objective
 According to a study by the Department of Education, approximately 30% of undergraduate students change their major at least once within their first three years of study. The rate of change varied by field, with students who declared STEM majors switching at a rate of 35%.More information about this can be found in <a href= "https://nces.ed.gov/pubs2018/2018434/index.asp">this article</a>
 The goal of this project is to examine the rate at which students enrolled in Whitman College change majors and whether there is a reasonable correlation between that and their graduation statuses.I will explore the variation in the rate of changing majors according to the different fields of studies.  
@@ -9,19 +14,22 @@ The data was requested from  by Whitman College Department of institution resear
 
 ##  Research questions
 Does switching majors affect a student's likelihood of graduating?
+
 Which program categories do students mostly switch to or from?
-How has the rate of switching majors changed over time?
+
+How has the rate of changing majors changed over time based on difference in programs?
+
 In what period or year do students switch majors?
 
 ## Analysis Knowledge
 The data processing and cleaning required three major steps to filter out student information about what majors they declared interest in rom when they enroled until they graduated
 First, I examined the format of the values in the three data sets provided. 
 Next, I merged the students' initial interest information with their concurrent changes in major declaration. The main challenge was normalizing the varied text entries for first interests, which were raw strings (e.g., "Biology," "Biomolecular Biology," "Computer Science"), while the declared programs used program codes (e.g., "BIOL," "CS"), making comparison tedious. To address this, I used a Python library called MyFuzz, which analyzes text strings and returns a similarity ratio. Using this tool, I was able to match raw text strings to the corresponding program code format.
-{inset code snippet}
+
 
 For the visualizations, I used Plotly Express to generate dynamic and interactive visual representations of the program details. 
 
-
+This <a href= "https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/final_project_report.ipynb">Google colab report </a> includes all the code and step by step procedure for my analysis
 ## Results
 After wrangling the dater i managed to answer the following questons: 
 **So how many students within 2017 and 2021 switched majors?**
@@ -67,7 +75,11 @@ Hover over each bar to see the varying student count.
   scrolling="yes">
 </iframe>
 
-Conclusion
+Research resources
+- Pandas documentation: I used pandas documentation for most of data filtering algorithms
+- Google Gemini: I  used gemini chat assst in google colab  debug errors
+- <a href="https://plotly.com/python/plotly-express/">Plotly Express documentation</a>
+- Stack OverFlow
 
 
 
