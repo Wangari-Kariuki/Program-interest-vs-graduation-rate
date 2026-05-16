@@ -19,7 +19,6 @@ Which program categories do students mostly switch to or from?
 
 How has the rate of changing majors changed over time based on difference in programs?
 
-In what period or year do students switch majors?
 
 ## Analysis procedure
 The data processing and cleaning required three major steps to filter out student information about what majors they declared interest in rom when they enroled until they graduated. 
