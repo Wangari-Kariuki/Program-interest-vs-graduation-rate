@@ -21,7 +21,7 @@ How has the rate of changing majors changed over time based on difference in pro
 
 In what period or year do students switch majors?
 
-## Analysis Knowledge
+## Analysis procedure
 The data processing and cleaning required three major steps to filter out student information about what majors they declared interest in rom when they enroled until they graduated. 
 First, I examined the format of the values in the three data sets provided. 
 Next, I merged the students' initial interest information with their concurrent changes in major declaration. The main challenge was normalizing the varied text entries for first interests, which were raw strings (e.g., "Biology," "Biomolecular Biology," "Computer Science"), while the declared programs used program codes (e.g., "BIOL," "CS"), making comparison tedious. To address this, I used a Python library called MyFuzz, which analyzes text strings and returns a similarity ratio. Using this tool, I was able to match raw text strings to the corresponding program code format.
