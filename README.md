@@ -1,4 +1,4 @@
-#   Descriptive analysis of change of program interest and graduation rate
+#   Descriptive analysis of Student Program Interest and Graduation Trends
 
 **By: Esther Kariuki**
 
