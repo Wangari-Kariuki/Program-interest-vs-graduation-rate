@@ -10,7 +10,7 @@ According to a study by the Department of Education, approximately 30% of underg
 The goal of this project is to examine the rate at which students enrolled in Whitman College change majors and whether there is a reasonable correlation between that and their graduation statuses.I will explore the variation in the rate of changing majors according to the different fields of studies.  
 
 ## About the data
-The data was requested from  by Whitman College Department of institution research through Professor Jordan.The dataset contained information of 2000 enrolled students between 2017 and 2021 academic years, their declared academic interests, and their graduation status.
+The data was requested from  by Whitman College Department of institution research through Professor Jordan.The dataset contained information over 1800 enrolled students between 2017 and 2021 academic years, their declared academic interests, and their graduation status.
 
 ##  Research questions
 Does switching majors affect a student's likelihood of graduating?
