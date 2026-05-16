@@ -96,7 +96,7 @@ This is a categorical bar graph representing the student count per major obtaine
 
 Out of 1562 graduating students, 367 chose one of their first-year academic interests as their major.
 This is 23.50% of all graduated students.
-
+With this we can infer that that the rest 15% changed their majors and majoriiry which is over 60% had their initial interests as undeclared. 
 
 **Reflection**
 
