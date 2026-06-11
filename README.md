@@ -89,8 +89,18 @@ Hover over each bar to see the varying student count.
 </figcaption>
 </figure>
 
-This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
+**Student count per major category**
+To obtain the major categories I created program group dictionary and mapped each listed program on enrollement, during sophomore and junior year and during grad year  to its respective program group. I then grouped the student IDs by the major programs an obtaine the student count for each group.
+<iframe 
+  src = "https://Wangari-Kariuki.github.io/Program-interest-vs-graduation-rate/blob/main/categorical_student_count%20(2).html"
+  width="100%" 
+  height="500px" 
+  frameborder="0" 
+  scrolling="yes">
+</iframe>
 
+
+This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
 **Of all the ones who graduated, how many actually stuck with the interests they made from first year?**
 Out of 1562 graduating students, 23% chose one of their first-year academic interests as their major. 
 
