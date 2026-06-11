@@ -29,7 +29,7 @@ A limtation of this library for our task is that it does character matching whic
 1. Normalization
 2. Creating a controlled vocabulary map
 3. Passing the lists of strings through fuzzy pipeline and mapping dictionary
-
+To determine the  number of students who switched  majors: I fitered out the student IDs of students whose program status was tagged as "changed mind". 
 For the visualizations, I used Plotly Express to generate dynamic and interactive visual representations of the program details. 
 
 This <a href= "https://github.com/Wangari-Kariuki/Program-interest-vs-graduation-rate/blob/main/final_project_report.ipynb">Google colab report </a> includes all the code and step by step procedure of my analysis
@@ -92,9 +92,8 @@ Hover over each bar to see the varying student count.
 This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
 
 **Of all the ones who graduated, how many actually stuck with the interests they made from first year?**
+Out of 1562 graduating students, 23% chose one of their first-year academic interests as their major. 
 
-Out of 1562 graduating students, 367 chose one of their first-year academic interests as their major.
-This is 23.50% of all graduated students.
 With this we can infer that that the rest 15% changed their majors and majoriiry which is over 60% had their initial interests as undeclared. 
 
 **Reflection**
