@@ -12,12 +12,13 @@ The goal of this project is to examine the rate at which students enrolled in Wh
 ## About the data
 The data was requested from  by Whitman College Department of institution research through Professor Jordan.The dataset contained information over 1800 enrolled students between 2017 and 2021 academic years, their declared academic interests, and their graduation status.
 
-##  Research questions
+<!--##  Research questions
 Does switching majors affect a student's likelihood of graduating?
 
 Which program categories do students mostly switch to or from?
 
 How has the rate of changing majors changed over time based on difference in programs?
+-->
 
 
 ## Analysis procedure
