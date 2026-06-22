@@ -45,11 +45,6 @@ Although this was a tangent from examining the major changes, it later became us
   frameborder="0" 
   scrolling="no">
    ></iframe>
-   <figcaption>
-      
-This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
-
-   </figcaption>
 </figure>
 
 
@@ -61,11 +56,14 @@ This is a categorical bar graph representing the student count per major obtaine
   frameborder="0" 
   scrolling="yes">
 </iframe>
-<figcaption> 
-   The visualization is a stacked bar graph representing the change in student count before and after students changed majors. It accounts for information only from students who switched majors.
-Hover over each bar to see the varying student count. 
-</figcaption>
+   <figcaption>
+      
+This is a categorical bar graph representing the student count per major obtained from student enrollment information. Obtained  by mapping a list of program codes to the student information.
+
+   </figcaption>
 </figure>
+
+Biology was the most popular major among students at enrollment, with over 6 percent of all enrolled students selecting it as their preferred area of interest. Environmental studies and mathematics and natural sciences were also highly popular among first-year students. However, humanities majors trailed behind, with minimal interest ranging between 0.3 and 1 percent. Notably, English, Economics, and Politics were also very popular within the first year of enrollment, with average percentages between 3 and 4 percent.
 
 **How many students within 2017 and 2021 switched majors?**
 
